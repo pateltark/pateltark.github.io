@@ -38,7 +38,7 @@ Passionate about AI, Deep Learning, and data-driven solutions, I specialize in d
 
 - 📧 **Email:** pateltark424@gmail.com 
 - 💼 **LinkedIn:** [tarkpatel](https://www.linkedin.com/in/tark-patel/)  
-- 📂 **GitHub:** [tarkpatel](https://github.com/tarkptel)
+- 📂 **GitHub:** [tarkpatel](https://github.com/tarkpatel)
 - 💡 **Kaggle:** [tarkpatel](https://www.kaggle.com/tark01)
   
 **👉 Feel free to connect with me for collaborations, discussions, or AI projects!**
